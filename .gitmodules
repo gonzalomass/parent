@@ -1,4 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = git@github.com:gonzalomass/submodule.git
-	branch = master
+	branch = staging
